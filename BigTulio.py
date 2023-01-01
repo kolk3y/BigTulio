@@ -3,7 +3,7 @@ from discord import Intents, Interaction
 from discord.ext import commands
 from tuliojitsu.tuliojitsu import Tuliojitsu
 from tuliojitsu.menus import Resultado
-#mover la cartpeta de "assets" dentro de la carpeta de tuliojitsu -> cambiar parametros
+
 bot = commands.Bot(command_prefix = "!", intents = Intents.all())
 
 tuliojitsu = Tuliojitsu()
