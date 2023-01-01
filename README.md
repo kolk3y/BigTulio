@@ -2,7 +2,7 @@
 
 # Juegos
 
-## Tuliojitsu
+## Tuliojitsu (falta agregar un botón para que el jugador abandone la partida)
 
 ### Sala de espera:
 ![s](https://i.ibb.co/TBbV56F/imagen-2023-01-01-005526803.png)
